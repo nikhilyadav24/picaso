@@ -26,7 +26,7 @@ GPT-Teaching-Assistant/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/nikhilyadav24/picaso
+git clone https://github.com/nikhilyadav24/picaso-main
 cd picaso
 ```
 
